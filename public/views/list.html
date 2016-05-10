@@ -1,0 +1,18 @@
+<div class="row">
+	<div class="small-12 medium-10 large-8 small-centered columns">
+		<section>
+			<h2>{{cat}}</h2>
+			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+				<li data-ng-repeat="pet in pets" class="animList">
+					<a href="#/{{url}}/{{pet._id}}">
+						<div class="petImage">
+							<img src="images/{{pet.image}}" alt="{{pet.name}}">
+							<h3>{{pet.name}}</h3>
+						</div>
+					</a>
+				</li>
+			</ul>
+			<a href="#/" class="button">Back to Categories</a>
+		</section>
+	</div>
+</div>

@@ -1,0 +1,181 @@
+
+body{
+	font-family: 'Lato', sans-serif;
+	background: url('../images/witewall.png');
+}
+
+h2{
+	color: #EEE;
+	font-family: 'Lora', serif;
+	font-size: 2.4em;
+	font-weight: 700;
+	text-align: center;
+	text-transform: capitalize;
+	margin: 0;
+	letter-spacing: 1px;
+}
+
+h3{
+	font-family: 'Lora', serif;
+	font-size: 1.75em;
+	font-weight: 400;
+	text-align: center;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
+
+ul[class*="block-grid-"]{
+	margin: 0;
+}
+
+ul[class*="block-grid-"] li{
+	padding: 0;
+}
+
+li{
+	list-style-type: none;
+}
+
+p{
+	margin: 0;
+	color: #0F6B3B;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
+
+section{
+	margin: 25px 0;
+}
+
+section h2{
+	padding: 10px 0 15px;
+	background-color: #41B77B;
+}
+
+.button{
+	display: block;
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: 'Lora', serif;
+	font-weight: 400;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	background-color: #41B77B;
+}
+
+.button:hover, .button:focus, .button:active{
+	background-color: #328E60;
+}
+
+.navigation, .navigation:hover, .navigation:focus, .navigation:active{
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	height: 150px;
+	font-family: 'Lora', serif;
+	font-size: 1.5em;
+	font-weight: 400;
+	text-transform: capitalize;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+.navigation h3{
+	margin: 0;
+	color: #EEE;
+	height: 100%;
+	padding-top: 40px;
+	background-color: rgba(50,50,50,0.5);
+}
+
+.dogs{
+	background: url('../images/dogs.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.cats{
+	background: url('../images/cats.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.others{
+	background: url('../images/others.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.petImage{
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	max-width: 310px;
+	overflow: hidden;
+}
+
+.petImage h3{
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	padding: 5px 0;
+	color: #EEE;
+	width: 100%;
+	text-align: center;
+	background-color: rgba(50,50,50,0.5);
+}
+
+.petProfile > div:first-child{
+	padding-right: 0;
+}
+
+.petProfile > div:last-child{
+	padding-left: 0;
+}
+
+@media screen and (max-width: 1024px){
+	.petProfile img{
+		border: 10px solid #fff;
+	}
+
+	.petProfile > div:first-child{
+		padding-right: 15px;
+	}
+
+	.petProfile > div:last-child{
+		padding-left: 15px;
+	}
+}
+
+.petInfo{
+	margin: 0;
+}
+
+.petInfo li{
+	padding: 10px 25px;
+}
+
+.petInfo li:nth-child(odd){
+	background-color: #EEE;
+}
+
+.petInfo li:nth-child(even){
+	background-color: rgba(65,183,123,0.1);
+}
+
+.animList.ng-enter {
+	-webkit-transition: all 0.5s ease-in;
+	-moz-transition: all 0.5s ease-in;
+	-o-transition: all 0.5s ease-in;
+	transition: all 0.5s ease-in;
+    opacity: 0;
+}
+
+.animList.ng-enter-stagger {
+  transition-delay: 0.1s;
+  transition-duration: 0s;
+}
+     
+.animList.ng-enter.ng-enter-active {
+    opacity: 1;
+}

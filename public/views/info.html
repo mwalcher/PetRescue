@@ -1,0 +1,140 @@
+<div class="row">
+	<div class="small-12 medium-10 large-8 small-centered columns">
+		<section>
+			<div class="row petProfile">
+				<div class="small-12 large-5 columns">
+					<img src="images/{{pet.image}}" alt="{{pet.name}}">
+				</div>
+				<div class="small-12 large-7 columns">
+					<h2>{{pet.name}}</h2>
+					<ul class="petInfo">
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Species:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{pet.species}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Breed:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{pet.breed}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Age:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{pet.age}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Sex:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{pet.sex}}</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="small-12 columns">
+					<ul class="petInfo">
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Size:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{pet.size}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Colour:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p data-ng-repeat="colour in pet.colour">{{colour.name}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Spayed/Neutered:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p ng-if="pet.fixed && pet.sex == 'Male'">Neutered</p>
+								<p ng-if="pet.fixed && pet.sex == 'Female'">Spayed</p>
+								<p ng-if="!pet.fixed">No</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Declawed:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p ng-if="pet.declawed">Yes</p>
+								<p ng-if="!pet.declawed">No</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Intake Date:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>{{ pet.intake | date:'mediumDate'}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>On Hold:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p ng-if="pet.hold">Yes</p>
+								<p ng-if="!pet.hold">No</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="row">
+								<div class="small-6 medium-4 columns">
+								<p>Adoption Fee:</p>
+								</div>
+								<div class="small-6 medium-8 columns">
+								<p>${{pet.fee}}</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<p class="text-justify">{{pet.description}}</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<a href="#/{{cat}}" class="button">Back to {{cat}}</a>
+		</section>
+	</div>
+</div>

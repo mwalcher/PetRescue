@@ -1,0 +1,366 @@
+
+
+
+
+<—————————————————————————————————— DOGS ——————————————————————————————————>
+
+
+[{
+	"name": "Pilsner",
+	"sex": "Female",
+	"age": "7 years",
+	"species": "Dog",
+	"breed": "German Shepherd",
+	"size": "Medium",
+	"colour": [{
+		"name": "Brown"
+	}, {
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-10-03",
+	"hold": "False",
+	"fee": "80",
+	"description": "Pilsner is a quiet, smart, reserved dog. It takes time to earn her trust but once she bonds with you she will wag her tail and run to greet you when you come home. She loves to cuddle and will stick close to you during a thunderstorm. When we go for walks she will greet other dogs and people. She really needs a family who will be around most of the time. She thrives on consistent routine and company. She isn't really clingy; she just needs to have people around to make her the most comfortable. If you have been looking for a beautiful, friendly dog to call your new best friend look no further than Pilsner. She has a few special needs, but that does not stop her from enjoying life to the fullest. If you have a flexible schedule and enjoy a calm, relaxed lifestyle Pilsner could be the dog of your dreams!",
+	"image": "pilsner.jpg"
+}, {
+	"name": "Prospero",
+	"sex": "Male",
+	"age": "6 years",
+	"species": "Dog",
+	"breed": "Rottweiler",
+	"size": "Large",
+	"colour": [{
+		"name": "Brown"
+	}, {
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2016-01-16",
+	"hold": "False",
+	"fee": "120",
+	"description": "Prospero (called Crowley by his current owners) is a lively man looking for a new home. He has an affinity towards women and would prefer if his future owner was female. Prospero is looking for someone to teach him how to trust new people and places. Once he trusts you, he'll be sure to lean into you and ask for pets. Long walks and exercise and lots of training would suit this guy to a tee. He needs some help learning to share but is beaming with intelligence and ready to turn a new leaf. Prospero is a clever boy and knows sit, paw, high five, lie down, stay and roll over. Do you have room in your heart and home for this bouncy pup?",
+	"image": "prospero.jpg"
+}, {
+	"name": "Ranger",
+	"sex": "Male",
+	"age": "2 years",
+	"species": "Dog",
+	"breed": "Shepherd",
+	"size": "Medium",
+	"colour": [{
+		"name": "White"
+	}, {
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2016-02-16",
+	"hold": "False",
+	"fee": "200",
+	"description": "Ranger (called Bear by his current owners) is looking for a new home. He's an incredibly intelligent dog with an aptitude for clicker training. He already knows all his basic commands as well as a few tricks. He likes running and slashing in water and is working on learning how to swim. He loves playing the recall game and loves playing tug of war. He is great on leash but can get startled easily on his walks. However, when he gets scared he can easily be distracted with treats. Ranger is a very social fella who loves playing with other dogs during both daycare and group walks, so long as he is supervised throughout his play dates. He loves his car rides and his indoor play time but also loves to just settle down at his owner's feet. As smart as Ranger is, he is also a bit overwhelmed in new situations. He will do best in a home with owners who are committed to gradual socialization and non-confrontational introductions. He has the potential to get along with other dogs, but will require controlled and supervised interactions. Ranger's a playful, friendly boy who is looking for an owner who can provide daily physical and intellectual challenges. At the end of a long day, he'd be happy to cuddle with you while getting some neck scratches. If you're up for helping Ranger reach his potential, please speak with an adoption agent to learn the next steps.",
+	"image": "ranger.jpg"
+}, {
+	"name": "Poxy",
+	"sex": "Female",
+	"age": "1 year",
+	"species": "Dog",
+	"breed": "Alaskan Husky",
+	"size": "Large",
+	"colour": [{
+		"name": "Black"
+	}, {
+		"name": "Tan"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-08-29",
+	"hold": "True",
+	"fee": "300",
+	"description": "Poxy is a sweet, gentle girl with a definite goofy side. Very shy and cautious at first, once Poxy trusts, she is a playful, affectionate, energetic dog, smart and eager to please. She loves to go for long walks in quiet neighbourhoods and parks, play fetch, and frolic. She also relishes quiet times - sitting close and having her neck scratched. Poxy has come a long way in her foster home, but she can still be uncertain of new things, people and places. She is waiting for a calm, patient owner to guide her, expand her world and help her become the strong-hearted, brave dog she wants to be.",
+	"image": "poxy.jpg"
+}, {
+	"name": "Macey",
+	"sex": "Female",
+	"age": "5 years",
+	"species": "Dog",
+	"breed": "Rottweiler",
+	"size": "Medium",
+	"colour": [{
+		"name": "Black"
+	}, {
+		"name": "Tan"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-08-28",
+	"hold": "False",
+	"fee": "200",
+	"description": "Macey is truly the entire package. She has a robust exterior and the heart of gold. What makes Macey so special is how far she has come since meeting us. She has made amazing progress from becoming more confident to raising her tolerance levels. Writing about how beautiful Macey is would not be enough to do justice to her good looks. She is simultaneously majestic and adorable. Macey is also very strong, so potential adopters that are looking for an active dog should look no further. Macey is a very strong, sweet-natured, loyal companion. She is looking for someone who can not only keep up with her but also guide her along the way. She is slowly learning manners on how to share and how to meet new people.If you are interested in Macey and think you have what it takes then please speak to an adoption agent today!",
+	"image": "macey.jpg"
+}, {
+	"name": "Polo",
+	"sex": "Male",
+	"age": "3 years",
+	"species": "Dog",
+	"breed": "Pug",
+	"size": "Small",
+	"colour": [{
+		"name": "Tan"
+	}, {
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2016-01-12",
+	"hold": "False",
+	"fee": "150",
+	"description": "This is Polo. Polo is the kindest, poshest Pugg you’ll ever meet. When not wrapped in a warm Scottish wool, Polo loves to watch tennis, listen to chamber music, and rest on his union jack pillow. Polo does not love children or cats.  In fact, Polo finds most of life to be simply annoying and he has settled into an ennui that makes him just the perfect lap dog for anyone that just simply does not like to move.  Are you a fussy grandmother is a wheel chair? Polo might be the special love you’re waiting for. Polo likes to be held and also enjoys being read to – especially the works of Jeremy Bentham or anything by Danielle Steele. Polo eats well – especially mini cakes - loves short walks, and enjoys warm days where he can rest in the garden. Does Polo sound like your kind of dog? Come visit him today!",
+	"image": "polo.jpg"
+}]
+
+
+
+
+
+
+
+<—————————————————————————————————— CATS ——————————————————————————————————>
+
+
+[{
+	"name": "Indiana",
+	"sex": "Female",
+	"age": "4 years",
+	"species": "Cat",
+	"breed": "Shorthair",
+	"size": "Small",
+	"colour": [{
+		"name": "White"
+	}, {
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-05-19",
+	"hold": "False",
+	"fee": "100",
+	"description": "Little Miss Indiana is a demure girl who enjoys interacting with people at her own pace. Present your hand to her and she will lean into you for some petting and chin rubs. She is wary of loud noises, so if you have a nice quiet home and are looking to share it with a girl who will not ask for much other than a bit of love, food and safety please consider Indiana. A quiet reserved cat can often be overlooked, yet she has so much to offer.",
+	"image": "indiana.jpg"
+}, {
+	"name": "Faloola",
+	"sex": "Female",
+	"age": "9 years",
+	"species": "Cat",
+	"breed": "Longhair",
+	"size": "Small",
+	"colour": [{
+		"name": "Grey"
+	}, {
+		"name": "White"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-09-30",
+	"hold": "False",
+	"fee": "80",
+	"description": "Faloola has a shy and quiet nature, though she will start showing her true colours after a few days of living in her new home. Seemingly an independent little lady, she might seem fine on her own though she will make it clear when a little attention is needed by giving soft chirps and meows to get your attention. Her favorite petting involves head and under chin scratches. With a calm and gentle owner, her confidence will grow and she will be comforted by your company.",
+	"image": "faloola.jpg"
+}, {
+	"name": "Wiwa",
+	"sex": "Male",
+	"age": "10 years",
+	"species": "Cat",
+	"breed": "Longhair",
+	"size": "Medium",
+	"colour": [{
+		"name": "Grey"
+	}, {
+		"name": "White"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2014-11-15",
+	"hold": "False",
+	"fee": "95",
+	"description": "Wiwa is a lovely gentleman who will become your closest friend, once he gets to know you. His deep, melodic purr is almost always going, letting you know how content and truly happy he is. Wiwa is in a Foster home and looking for permanent accommodations, his foster parents have the following to say about him: This handsome, green-eyed tabby is a gentle and constant companion who loves to sit beside you while you are working at your desk, watching TV on the couch or reading in bed and shows his appreciation for affection, especially brushing, by drooling and purring contentedly at the slightest stroke. During playtime, he loves to tackle and swat at his mouse-on-a-rope and even chase his own tail but his favourite time of day is mealtime. During mealtime, he calmly tolerates his twice daily insulin injections. Caring for this gorgeous guy would be a rewarding experience for anyone who can commit to providing the additional but totally manageable care associated with owning a diabetic cat.",
+	"image": "wiwa.jpg"
+}, {
+	"name": "Alfie",
+	"sex": "Male",
+	"age": "11 years",
+	"species": "Cat",
+	"breed": "Longhair",
+	"size": "Medium",
+	"colour": [{
+		"name": "Grey"
+	}, {
+		"name": "White"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2016-02-10",
+	"hold": "False",
+	"fee": "150",
+	"description": "This handsome boy is an independent senior feline who knows what he wants which is to find his forever home where he may spend his golden years lazing in the sun and having the company of his owner(s) by his side. Even though he's a bit older, Alfie still loves to play with a ball of wool, a shard of ribbon and the excitement of a kitty laser light. Alfie loves cat and kids, and makes the best snuggle-bug at night. He is sure to keep you warm on a winter night and is a committed, successful mouser! Lock up your cheese and olives: Alfie is a snack fiend and has refined taste. Come visit Alfie soon - he cannot wait to be your feline companion.",
+	"image": "alfie.jpg"
+}, {
+	"name": "Gigi",
+	"sex": "Female",
+	"age": "14 years",
+	"species": "Cat",
+	"breed": "Shorthair",
+	"size": "Medium",
+	"colour": [{
+		"name": "Black"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-04-20",
+	"hold": "False",
+	"fee": "120",
+	"description": "There are not enough words to describe this super sweet senior feline lady. She has captivated the hearts of our staff and volunteers with her gentle personality and her eagerness to curl up on your lap. Thank goodness for little cats! Just like the musical, Gigi is a breath of fresh air. She bounces with delight from morning to night. She loves to scamper outside and roll around in the garden. She's never met a flower she didn't love to eat! Sometime Gigi seems a bit shy. Don't take her quiet demeanour as aloofness - she is simply a thinker. She enjoys an afternoon slumber as much as she enjoys watching through the window birds play or the seasons change. Gigi is a commitment. She wants to love and be loved back. She is ready to be the companion you've been waiting for. Gigi is a dreamer and, though you might think her cat antics a bit silly, you will grow to love her in time. It's easy to overlook Gigi as she is unassuming - but she just wants to be held by someone like you! Come visit Gigi today.",
+	"image": "gigi.jpg"
+}, {
+	"name": "Mowsy",
+	"sex": "Female",
+	"age": "2 months",
+	"species": "Cat",
+	"breed": "Longhair",
+	"size": "Small",
+	"colour": [{
+		"name": "Grey"
+	},{
+		"name": "White"
+	}],
+	"fixed": "False",
+	"declawed": "False",
+	"intake": "2016-01-03",
+	"hold": "False",
+	"fee": "60",
+	"description": "Mowsy is a gentle kitten and was born on a ray of sunshine. Mowsy’s mother came to the shelter a few months ago with a belly full of kittens.  All of her siblings are gone now, but because Mowsy is a wee bit shy, she tends to stay toward the back of her kitty castle and watch the action from a safe place. Recently, Mowsy has been spending time with children from a near by kindergarten class. She has realized that she loves children and desperately wants to play. On one of her many adventures, Mowsy managed to sneak away and took a stroll through the Dog Kennels, so it is safe to assume that she is not afraid of dogs.  We found her batting at Mr. Whisker’s wet nose and having a great time with her new friends.  You can meet Mowsy’s mother anytime: Shelby is now a resident cat in our Shelter Shop.  Come meet Mowsy today!",
+	"image": "mowsy.jpg"
+}]
+
+
+
+
+
+
+
+
+
+<—————————————————————————————————— OTHERS ——————————————————————————————————>
+
+
+[{
+	"name": "Tundra",
+	"sex": "Female",
+	"age": "281 years",
+	"species": "Unicorn",
+	"breed": "Unknown",
+	"size": "Large",
+	"colour": [{
+		"name": "White"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2016-02-14",
+	"hold": "False",
+	"fee": "250",
+	"description": "Tundra is a loving unicorn of an unknown breed. Tundra was found running along side the 401 near Woodstock in a snow storm. When not resting in the sunshine, Tundra enjoys spending her time running and jumping, watching Netflix, and eating cotton candy. While not exclusive to unicorns, it should be noted that Tundra poops rainbows and requires daily lip treatment of cherry chapstick. Tundra gets along fine with cats, but has not been tested along dogs. Tundra has demonstrated that she is great with small children, as long as she gets at least two hours of listening time to Lady Gaga. Tundra likes to sleep in a king size bed and is perfect for a large home with a very large yard. Tundra is shy at first, but snuggly once she gets to know and trust you. Tundra's little unicorn licks taste like bubblegum and you should meet her today.",
+	"image": "tundra.jpg"
+}, {
+	"name": "Tijuana",
+	"sex": "Male",
+	"age": "3 months",
+	"species": "Rodent",
+	"breed": "Hamster",
+	"size": "Small",
+	"colour": [{
+		"name": "Brown"
+	}],
+	"fixed": "False",
+	"declawed": "False",
+	"intake": "2016-01-19",
+	"hold": "False",
+	"fee": "10",
+	"description": "Meet Tijuana. Tijuana came here via Mexico. He is a legal house pet and just looking for a forever home. Tijuana enjoys lime agua fresca, carrot stems, and parsley.  For recreation, Tijuana likes to listen to Pitbull and run on his hamster wheel and watch old episodes of Fashion Television on City Television. Tijuana is strong willed and a funny little hamster. When me knows he is being watched, he is quick to start entertaining people. Tijuana can dance on his hind feet, run laps around his cage, and loves to play dress-up with little hamster costumes: Tijuana is a bit of a hamstanista. Tijuana hopes to find love in all the right places. If little nose nibbles melts your heart, come visit Tijuna today.",
+	"image": "tijuana.jpg"
+}, {
+	"name": "Pudding",
+	"sex": "Female",
+	"age": "17 years",
+	"species": "Reptile",
+	"breed": "Turtle",
+	"size": "Small",
+	"colour": [{
+		"name": "Brown"
+	}],
+	"fixed": "False",
+	"declawed": "False",
+	"intake": "2015-11-20",
+	"hold": "False",
+	"fee": "50",
+	"description": "Pudding is a happy little turtle. She was recently found swimming in the Thames River and brought to our office to place in a loving home.  When not splashing around in a small cup of water, Pudding enjoys sleeping and dreaming about her natural habitat. Pudding has shown a fondness for children and likes to cuddle with the shelter cats. She seems annoyed by dogs who bark, but also curious and is very open minded. She is very happy to hide inside her shell when sad, but loves to spread out on a warm rock when its sunny. Pudding hopes that you will consider coming in as soon as possible and considering her as your loving companion.",
+	"image": "pudding.jpg"
+}, {
+	"name": "Maybelline",
+	"sex": "Female",
+	"age": "2 years",
+	"species": "Rabbit",
+	"breed": "Dutch",
+	"size": "Medium",
+	"colour": [{
+		"name": "Brown"
+	}, {
+		"name": "White"
+	}],
+	"fixed": "True",
+	"declawed": "False",
+	"intake": "2015-12-01",
+	"hold": "False",
+	"fee": "35",
+	"description": "Maybelline is the prettiest bunny in the kennel, and she knows it. Maybelline is a super model in the buddy world and loves to be showered with affection and praise. Her hobbies are eating carrots, laying on her satin pillow, going on go-sees, and posing for photographs. Maybelline is basically intolerant toward all other animals, but her ambivalence does not cast a shadow on her fierce loyalty.  Visitors to the kennel have remarked that, after playing with May, she is full of charisma, she demonstrates a sense of uniqueness among house pets, she has a lot of nerve and is not scared of the loud dogs in the kennel, and she is tenacious - never missing a chance to outwit or sass her companion rescues. Maybelline needs a lot of rest, a lot of attention, and a lot of praise. If you are considering May as the pet of your dreams, please come by and visit her.  She is quick to love!",
+	"image": "maybelline.jpg"
+}, {
+	"name": "Papua",
+	"sex": "Male",
+	"age": "1 years",
+	"species": "Rodent",
+	"breed": "Guinea Pig",
+	"size": "Small",
+	"colour": [{
+		"name": "Brown"
+	}, {
+		"name": "White"
+	}],
+	"fixed": "False",
+	"declawed": "False",
+	"intake": "2016-02-10",
+	"hold": "False",
+	"fee": "25",
+	"description": "This is Papua. Papua is a full grown guinea pig. Papua is a lucky little pig having been rescued while munching out of the trash at a local restaurant. Papua loves apples, celery, and a good waldorf salad as a treat.  His favourite expression is yum yum, salt lick. Papua enjoys listening to the radio and has a soft spot for baroque music and Taylor Swift. Papua is the perfect house pet. He enjoys spending lazy summer days nibbling grass and jumping on dandelion flowers. Papua is timid. He would be best in a house with no cats, dogs or children. Papua is the perfect guard guinea for an elderly person looking for companionship.",
+	"image": "papua.jpg"
+}, {
+	"name": "Clover",
+	"sex": "Male",
+	"age": "2 years",
+	"species": "Ferret",
+	"breed": "Ferret",
+	"size": "Medium",
+	"colour": [{
+		"name": "White"
+	}, {
+		"name": "Grey"
+	}],
+	"fixed": "False",
+	"declawed": "False",
+	"intake": "2015-11-11",
+	"hold": "False",
+	"fee": "75",
+	"description": "Have you met Clover? You should. Clover’s salt and pepper fur is a rarity amount Ferret’s, so he is a real keeper.  He is more clever than he looks – but less clever than he thinks, so ‘Clever Clover’ gets himself into a lot of trouble. When not attempting to eat out of the food pantry, “borrow” dog toys from our Shelter Shop, or crawl up the legs of unsuspecting visitors, Clover loves to find sunny spots in any shelter window.  He is PAWsitively friendly and likes to explore.  Clover is a napper and you will want to crawl back into bed with this furry baby.  If you have never met a Ferret before, they are gentle and silly little animals: Clover is no exception. He will melt your heart and drive you crazy all at the same time. Clover loves dogs, kids, cats and babies. He is genuinely the perfect family pet.",
+	"image": "clover.jpg"
+}]
